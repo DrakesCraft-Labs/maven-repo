@@ -3,27 +3,27 @@
   <groupId>com.github.drakescraft_labs</groupId>
   <artifactId>slimefun-core</artifactId>
   <versioning>
-    <lastUpdated>20260529143733</lastUpdated>
+    <lastUpdated>20260529144216</lastUpdated>
     <snapshot>
-      <timestamp>20260529.143733</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260529.144216</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>11.0-Drake-1.21.1-20260529.143733-1</value>
-        <updated>20260529143733</updated>
+        <value>11.0-Drake-1.21.1-20260529.144216-2</value>
+        <updated>20260529144216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11.0-Drake-1.21.1-20260529.143733-1</value>
-        <updated>20260529143733</updated>
+        <value>11.0-Drake-1.21.1-20260529.144216-2</value>
+        <updated>20260529144216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>11.0-Drake-1.21.1-20260529.143733-1</value>
-        <updated>20260529143733</updated>
+        <value>11.0-Drake-1.21.1-20260529.144216-2</value>
+        <updated>20260529144216</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

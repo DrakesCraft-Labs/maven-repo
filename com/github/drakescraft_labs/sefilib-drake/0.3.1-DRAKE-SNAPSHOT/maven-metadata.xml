@@ -3,21 +3,21 @@
   <groupId>com.github.drakescraft_labs</groupId>
   <artifactId>sefilib-drake</artifactId>
   <versioning>
-    <lastUpdated>20260529143741</lastUpdated>
+    <lastUpdated>20260529144229</lastUpdated>
     <snapshot>
-      <timestamp>20260529.143741</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260529.144229</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.3.1-DRAKE-20260529.143741-1</value>
-        <updated>20260529143741</updated>
+        <value>0.3.1-DRAKE-20260529.144229-2</value>
+        <updated>20260529144229</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.3.1-DRAKE-20260529.143741-1</value>
-        <updated>20260529143741</updated>
+        <value>0.3.1-DRAKE-20260529.144229-2</value>
+        <updated>20260529144229</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
