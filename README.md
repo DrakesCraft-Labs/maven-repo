@@ -70,3 +70,4 @@ Si eso termina con `BUILD SUCCESS`, el plugin ya no depende del entorno local de
 
 - GitHub: <https://github.com/DrakesCraft-Labs/maven-repo>
 - Maven URL: <https://drakescraft-labs.github.io/maven-repo/>
+- Landing: <https://drakescraft-labs.github.io/maven-repo/index.html>
