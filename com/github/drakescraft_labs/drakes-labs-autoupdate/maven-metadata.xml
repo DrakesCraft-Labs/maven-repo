@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>drakes-labs-autoupdate</artifactId>
+  <versioning>
+    <versions>
+      <version>11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20260529160844</lastUpdated>
+  </versioning>
+</metadata>

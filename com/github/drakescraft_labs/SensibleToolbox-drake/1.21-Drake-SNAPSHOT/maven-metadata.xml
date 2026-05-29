@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>SensibleToolbox-drake</artifactId>
+  <versioning>
+    <lastUpdated>20260529161312</lastUpdated>
+    <snapshot>
+      <timestamp>20260529.161312</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.21-Drake-20260529.161312-1</value>
+        <updated>20260529161312</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.21-Drake-20260529.161312-1</value>
+        <updated>20260529161312</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.21-Drake-SNAPSHOT</version>
+</metadata>

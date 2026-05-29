@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>Networks-Experimental-drake</artifactId>
+  <versioning>
+    <lastUpdated>20260529164650</lastUpdated>
+    <snapshot>
+      <timestamp>20260529.164650</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11-20260529.164650-1</value>
+        <updated>20260529164650</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11-20260529.164650-1</value>
+        <updated>20260529164650</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11-SNAPSHOT</version>
+</metadata>

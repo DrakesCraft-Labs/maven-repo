@@ -3,21 +3,21 @@
   <groupId>com.github.drakescraft_labs</groupId>
   <artifactId>NetworksV6-drake</artifactId>
   <versioning>
-    <lastUpdated>20260529152807</lastUpdated>
+    <lastUpdated>20260529164627</lastUpdated>
     <snapshot>
-      <timestamp>20260529.152807</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20260529.164627</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>11-20260529.152807-3</value>
-        <updated>20260529152807</updated>
+        <value>11-20260529.164627-4</value>
+        <updated>20260529164627</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11-20260529.152807-3</value>
-        <updated>20260529152807</updated>
+        <value>11-20260529.164627-4</value>
+        <updated>20260529164627</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

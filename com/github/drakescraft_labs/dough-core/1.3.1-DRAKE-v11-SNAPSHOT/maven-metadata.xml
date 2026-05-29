@@ -3,21 +3,21 @@
   <groupId>com.github.drakescraft_labs</groupId>
   <artifactId>dough-core</artifactId>
   <versioning>
-    <lastUpdated>20260529144223</lastUpdated>
+    <lastUpdated>20260529160833</lastUpdated>
     <snapshot>
-      <timestamp>20260529.144223</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260529.160833</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.3.1-DRAKE-v11-20260529.144223-2</value>
-        <updated>20260529144223</updated>
+        <value>1.3.1-DRAKE-v11-20260529.160833-3</value>
+        <updated>20260529160833</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.3.1-DRAKE-v11-20260529.144223-2</value>
-        <updated>20260529144223</updated>
+        <value>1.3.1-DRAKE-v11-20260529.160833-3</value>
+        <updated>20260529160833</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

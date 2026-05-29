@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>kinematic-core-drake</artifactId>
+  <versioning>
+    <versions>
+      <version>33-DRAKE-1.21.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20260529161132</lastUpdated>
+  </versioning>
+</metadata>

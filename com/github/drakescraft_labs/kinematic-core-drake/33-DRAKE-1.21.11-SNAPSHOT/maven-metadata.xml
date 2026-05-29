@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>kinematic-core-drake</artifactId>
+  <versioning>
+    <lastUpdated>20260529161132</lastUpdated>
+    <snapshot>
+      <timestamp>20260529.161132</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>33-DRAKE-1.21.11-20260529.161132-1</value>
+        <updated>20260529161132</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>33-DRAKE-1.21.11-20260529.161132-1</value>
+        <updated>20260529161132</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>33-DRAKE-1.21.11-SNAPSHOT</version>
+</metadata>

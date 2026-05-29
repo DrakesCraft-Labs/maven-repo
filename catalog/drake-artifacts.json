@@ -1,37 +1,617 @@
 {
-  "repositoryId": "drakescraft-labs-local",
-  "groupId": "com.github.drakescraft_labs",
-  "artifacts": [
-    {
-      "artifactId": "slimefun-core",
-      "version": "11.0-Drake-1.21.1-SNAPSHOT",
-      "file": "../drakes-slimefun-labs/sources/slimefun-core/Slimefun4-src/target/slimefun-core-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
-      "sources": "../drakes-slimefun-labs/sources/slimefun-core/Slimefun4-src/target/Slimefun-1.2.DEV v11.0-Drake-1.21.1-SNAPSHOT-sources.jar",
-      "description": "Core Drake/Slimefun usado como API base por los addons."
-    },
-    {
-      "artifactId": "dough-core",
-      "version": "1.3.1-DRAKE-v11-SNAPSHOT",
-      "file": "../drakes-slimefun-labs/sources/dough-core/target/dough-core-1.3.1-DRAKE-v11-SNAPSHOT-shaded.jar",
-      "description": "Utilidades compartidas requeridas por plugins portados."
-    },
-    {
-      "artifactId": "sefilib-drake",
-      "version": "0.3.1-DRAKE-SNAPSHOT",
-      "file": "../drakes-slimefun-labs/sources/batch-2-expansion/SefiLib/target/SefiLib-v0.3.1-DRAKE-SNAPSHOT.jar",
-      "description": "Libreria auxiliar usada por Networks y otros addons."
-    },
-    {
-      "artifactId": "InfinityExpansion-drake",
-      "version": "1.20.6-Drake-SNAPSHOT",
-      "file": "../drakes-slimefun-labs/sources/repos-to-port/InfinityExpansion/target/InfinityExpansion-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
-      "description": "API/compatibilidad de InfinityExpansion para integraciones."
-    },
-    {
-      "artifactId": "NetworksV6-drake",
-      "version": "11-SNAPSHOT",
-      "file": "../standalone-audit/NetworksV6-drake/target/NetworksV6-Drake-v11-SNAPSHOT.jar",
-      "description": "Jar compilado de NetworksV6 Drake para consumo controlado dentro del ecosistema."
-    }
-  ]
+    "repositoryId":  "drakescraft-labs-local",
+    "groupId":  "com.github.drakescraft_labs",
+    "generatedAt":  "2026-05-29T12:19:01-04:00",
+    "totalArtifacts":  87,
+    "artifacts":  [
+                      {
+                          "artifactId":  "dough-core",
+                          "version":  "1.3.1-DRAKE-v11-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/dough-core/target/dough-core-1.3.1-DRAKE-v11-SNAPSHOT-shaded.jar",
+                          "category":  "Base Stack",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "drakes-labs-autoupdate",
+                          "version":  "11-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/drakes-labs-autoupdate/target/drakes-labs-autoupdate-11-SNAPSHOT.jar",
+                          "category":  "Base Stack",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "slimefun-core",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/slimefun-core/Slimefun4-src/target/slimefun-core-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Base Stack",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Aircraft-drake",
+                          "version":  "0.1-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/Aircraft-dev/target/Aircraft-drake-0.1-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ChestTerminal-drake",
+                          "version":  "1.21-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ChestTerminal-sf5/target/ChestTerminal-drake-1.21-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ColoredEnderChests-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ColoredEnderChests/target/ColoredEnderChests-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "DyedBackpacks-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/DyedBackpacks/target/DyedBackpacks-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "DynaTech-drake",
+                          "version":  "1.21-Drake-v7",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/DynaTech/target/DynaTech-drake-1.21-Drake-v7-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "EcoPower-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/EcoPower/target/EcoPower-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ElectricSpawners-drake",
+                          "version":  "1.21.1-Drake",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ElectricSpawners/target/ElectricSpawners-drake-1.21.1-Drake-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ExoticGarden-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ExoticGarden/target/ExoticGarden-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ExtraGear-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ExtraGear/target/ExtraGear-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ExtraHeads-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ExtraHeads/target/ExtraHeads-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ExtraUtils-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/ExtraUtils/target/ExtraUtils-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "FluffyMachines-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/FluffyMachines/target/FluffyMachines-drake-1.0.0-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "GlobalWarming-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/GlobalWarming/target/GlobalWarming-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "HardcoreSlimefun-drake",
+                          "version":  "1.0",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/HardcoreSlimefun/target/HardcoreSlimefun-drake-1.0-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "HotbarPets-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/HotbarPets/target/HotbarPets-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "InfinityExpansion-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/InfinityExpansion/target/InfinityExpansion-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "kinematic-core-drake",
+                          "version":  "33-DRAKE-1.21.11-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/KinematicCore/target/kinematic-core-drake-33-DRAKE-1.21.11-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "MobCapturer-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/MobCapturer/target/MobCapturer-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "PrivateStorage-drake",
+                          "version":  "1.21.1-Drake",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/PrivateStorage/target/PrivateStorage-drake-1.21.1-Drake-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SensibleToolbox-drake",
+                          "version":  "1.21-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SensibleToolbox-sf5/target/SensibleToolbox-drake-1.21-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SFCalc-drake",
+                          "version":  "1.21-Drake-v1",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SFCalc/target/SFCalc-drake-1.21-Drake-v1-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SFMobDrops-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SFMobDrops/target/SFMobDrops-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SimpleUtils-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SimpleUtils/target/SimpleUtils-drake-MODIFIED-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimeChem-drake",
+                          "version":  "1.21-Drake-v7",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SlimeChem/target/SlimeChem-drake-1.21-Drake-v7-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimefunLuckyBlocks-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/luckyblocks-sf/target/SlimefunLuckyBlocks-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimefunOreChunks-drake",
+                          "version":  "1.20.6-Drake-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SlimefunOreChunks/target/SlimefunOreChunks-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimyRepair-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SlimyRepair/target/SlimyRepair-drake-1.0.0-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimyTreeTaps-drake",
+                          "version":  "11.0-Drake-1.21.1-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SlimyTreeTaps/target/SlimyTreeTaps-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SoulJars-drake",
+                          "version":  "1.21-Drake-v1",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SoulJars/target/SoulJars-drake-1.21-Drake-v1-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SoundMuffler-drake",
+                          "version":  "11.0-Drake",
+                          "file":  "../drakes-slimefun-labs/sources/repos-to-port/SoundMuffler/target/SoundMuffler-drake-11.0-Drake-shaded.jar",
+                          "category":  "Batch 1 - Ports",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Cultivation-drake",
+                          "version":  "2.5",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/Cultivation_Updated/target/Cultivation-drake-2.5-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "infinitylib-drake",
+                          "version":  "1.3.11-DRAKE-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/InfinityLib/target/infinitylib-drake-1.3.11-DRAKE-SNAPSHOT-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "LiteXpansion-drake",
+                          "version":  "1.21-Drake-v2",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/LiteXpansion/target/LiteXpansion-drake-1.21-Drake-v2-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "sefilib-drake",
+                          "version":  "0.3.1-DRAKE-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/SefiLib/target/SefiLib-v0.3.1-DRAKE-SNAPSHOT.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SimpleMaterialGenerators-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/SMG/target/SimpleMaterialGenerators-drake v1.0.0.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Slimefun-Disc",
+                          "version":  "1.5.DEV",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/Slimefun-Disc/target/Slimefun-Disc-1.5.DEV-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimeTinker-drake",
+                          "version":  "1.2.DEV",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/SlimeTinker/target/SlimeTinker-drake-1.2.DEV-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Supreme-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/Supreme/target/Supreme-drake-MODIFIED-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "TranscEndence-drake",
+                          "version":  "DevTest-33",
+                          "file":  "../drakes-slimefun-labs/sources/batch-2-expansion/TranscEndence/target/TranscEndence-drake-DevTest-33-shaded.jar",
+                          "category":  "Batch 2 - Expansion",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "AdvancedTech-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/AdvancedTech/target/AdvancedTech-drake-1.0.0.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "AlchimiaVitae-drake",
+                          "version":  "1.1.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/AlchimiaVitae/target/AlchimiaVitae-drake-1.1.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "BetterChests-drake",
+                          "version":  "1.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SfBetterChests/target/BetterChests-drake-1.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "BetterNuclearReactor-drake",
+                          "version":  "1.3.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Better-Nuclear-Generator/target/BetterNuclearReactor-drake.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "CompressionCraft-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/CompressionCraft/target/CompressionCraft-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Coronalis-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Coronalis/target/Coronalis-vUNOFFICIAL.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "CrystamaeHistoria-drake",
+                          "version":  "1.0.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/CrystamaeHistoria/target/CrystamaeHistoria-drake-1.0.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "DankTech2-drake",
+                          "version":  "1.0.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/DankTech2/target/DankTech2-drake-1.0.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "DrakesLabPresence-drake",
+                          "version":  "1.0.1-DRAKE-SNAPSHOT",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/DrakesLabPresence/target/DrakesLabPresence-drake.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "DyeBench-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/DyeBench/target/DyeBench-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Element-Manipulation-drake",
+                          "version":  "1.1.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Element-Manipulation/target/Element-Manipulation-drake-1.1.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "EMCTech-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/EMCTech/target/EMCTech-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "ExtraTools-drake",
+                          "version":  "1.2",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/ExtraTools/target/ExtraTools-drake-v1.2.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "FlowerPower-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/FlowerPower/target/FlowerPower-drake-v1.0.0.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "FNAmplifications-drake",
+                          "version":  "Unoffical-4.2.4",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/FN-FAL-s-Amplifications/target/FNAmplifications-drake-Unoffical-4.2.4-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "FoxyMachines-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/FoxyMachines/target/FoxyMachines-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Gastronomicon-drake",
+                          "version":  "1.1.3",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Gastronomicon/target/Gastronomicon-drake-1.1.3-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "GeneticChickengineering-Reborn-drake",
+                          "version":  "1.1.DEV",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/GeneticChickengineering-Reborn/target/GeneticChickengineering-Reborn-drake-1.1.DEV-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "GeyserHeads-drake",
+                          "version":  "1.2",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Geyser-Slimefun-Heads/target/GeyserHeads-drake-1.2-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "HeadLimiter-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/HeadLimiter/target/HeadLimiter-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Liquid-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Liquid/target/Liquid-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Magic8Ball-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Magic-8-Ball/target/Magic8Ball-drake-vUNOFFICIAL.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "MapJammer-drake",
+                          "version":  "1.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/MapJammers/target/MapJammer-drake-1.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "MiniBlocks-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/MiniBlocks/target/MiniBlocks-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "MissileWarfare-drake",
+                          "version":  "1.13-SNAPSHOT.13",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/MissileWarfare/target/MissileWarfare-drake-1.13-SNAPSHOT.13-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "MoreResearches-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/MoreResearches/target/MoreResearches-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Netheopoiesis-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Netheopoiesis/target/Netheopoiesis-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "PotionExpansion-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/PotionExpansion/target/PotionExpansion-drake-1.0.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Quaptics-drake",
+                          "version":  "0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Quaptics/target/Quaptics-drake-0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "RelicsOfCthonia-drake",
+                          "version":  "Unofficial-2.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/RelicsOfCthonia/target/RelicsOfCthonia-drake-Unofficial-2.0.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "RykenSlimefunCustomizer-drake",
+                          "version":  "20",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/RykenSlimeCustomizer-EN/target/RykenSlimefunCustomizer-drake-20-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SaneCrafting-drake",
+                          "version":  "1.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SaneCrafting/target/SaneCrafting-drake-1.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "sfadvancements-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SlimefunAdvancements/target/sfadvancements-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SfChunkInfo-drake",
+                          "version":  "Unoffical-1.11-SNAPSHOT.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SfChunkInfo/target/SfChunkInfo-drake-Unoffical-1.11-SNAPSHOT.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SimpleStorage-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Simple-Storage/target/SimpleStorage-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimeCustomizer-drake",
+                          "version":  "1.0.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SlimeCustomizer/target/SlimeCustomizer-drake-1.0.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimeFrame-drake",
+                          "version":  "1.7.0",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SlimeFrame/target/SlimeFrame-drake-1.7.0-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SlimeHUD-drake",
+                          "version":  "1.3.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SlimeHUD/target/SlimeHUD-drake-1.3.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SmallSpace-drake",
+                          "version":  "MODED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SmallSpace/target/SmallSpace-drake vMODED.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "SpiritsUnchained-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/SpiritsUnchained/target/SpiritsUnchained-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "VillagerTrade-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/VillagerTrade/target/VillagerTrade-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "VillagerUtil-drake",
+                          "version":  "MODIFIED",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/VillagerUtil/target/VillagerUtil-drake-MODIFIED-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "Wildernether-drake",
+                          "version":  "1.2.1",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/Wildernether/target/Wildernether-drake-1.2.1-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "WorldEditSlimefun-drake",
+                          "version":  "UNOFFICIAL",
+                          "file":  "../drakes-slimefun-labs/sources/community-addons/WorldEditSlimefun/target/WorldEditSlimefun-drake-UNOFFICIAL-shaded.jar",
+                          "category":  "Community Addons",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      },
+                      {
+                          "artifactId":  "commons-lang-drake-patched",
+                          "version":  "2.6.1-DRAKE-PATCHED",
+                          "file":  "../drakes-slimefun-labs/sources/internal-metadata/patches/commons-lang-drake-patched/target/commons-lang-drake-patched-2.6.1-DRAKE-PATCHED-shaded.jar",
+                          "category":  "Internal",
+                          "description":  "Compilado por el reactor Drake, Java 21, Paper 1.21.1."
+                      }
+                  ]
 }
