@@ -1,0 +1,3 @@
+README.md text eol=lf
+assets/*.svg text eol=lf
+com/** text eol=lf
