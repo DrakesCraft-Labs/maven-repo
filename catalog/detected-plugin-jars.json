@@ -51,6 +51,12 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "Slimefun-Disc-1.5.DEV-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\batch-2-expansion\\Slimefun-Disc\\target\\Slimefun-Disc-1.5.DEV-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "Slimefun-Disc",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\batch-2-expansion\\Slimefun-Disc\\target\\Slimefun-Disc.jar",
@@ -99,6 +105,12 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "AdvancedTech-drake-1.0.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\AdvancedTech\\target\\AdvancedTech-drake-1.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "AlchimiaVitae-drake-1.1.1-shaded",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\AlchimiaVitae\\target\\AlchimiaVitae-drake-1.1.1-shaded.jar",
@@ -111,9 +123,129 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "BetterNuclearReactor-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Better-Nuclear-Generator\\target\\BetterNuclearReactor-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "CompressionCraft-drake vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\CompressionCraft\\target\\CompressionCraft-drake vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "CompressionCraft-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\CompressionCraft\\target\\CompressionCraft-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Coronalis-vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Coronalis\\target\\Coronalis-vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "CrystamaeHistoria-drake-1.0.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\CrystamaeHistoria\\target\\CrystamaeHistoria-drake-1.0.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "CrystamaeHistoria-drake-v1.0.1",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\CrystamaeHistoria\\target\\CrystamaeHistoria-drake-v1.0.1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "DankTech2-drake-1.0.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\DankTech2\\target\\DankTech2-drake-1.0.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "DankTech2-drake-v1.0.1",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\DankTech2\\target\\DankTech2-drake-v1.0.1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "DrakesLabPresence-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\DrakesLabPresence\\target\\DrakesLabPresence-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "DyeBench-drake vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\DyeBench\\target\\DyeBench-drake vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "DyeBench-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\DyeBench\\target\\DyeBench-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Element-Manipulation-drake-1.1.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Element-Manipulation\\target\\Element-Manipulation-drake-1.1.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Element-Manipulation-drake-v1.1.1",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Element-Manipulation\\target\\Element-Manipulation-drake-v1.1.1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "EMCTech-drake vMODIFIED",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\EMCTech\\target\\EMCTech-drake vMODIFIED.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "EMCTech-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\EMCTech\\target\\EMCTech-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "ExtraTools-drake-v1.2",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\ExtraTools\\target\\ExtraTools-drake-v1.2.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "FlowerPower-drake-v1.0.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\FlowerPower\\target\\FlowerPower-drake-v1.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "FNAmplifications vUnoffical-4.2.4",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\FN-FAL-s-Amplifications\\target\\FNAmplifications vUnoffical-4.2.4.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "FNAmplifications-drake-Unoffical-4.2.4-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\FN-FAL-s-Amplifications\\target\\FNAmplifications-drake-Unoffical-4.2.4-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "FoxyMachines-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\FoxyMachines\\target\\FoxyMachines-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "FoxyMachines-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\FoxyMachines\\target\\FoxyMachines-drake.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -129,15 +261,327 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "GeneticChickengineering-Reborn-drake-1.1.DEV-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\GeneticChickengineering-Reborn\\target\\GeneticChickengineering-Reborn-drake-1.1.DEV-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "GeneticChickengineering-Reborn-drake-1.1.DEV",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\GeneticChickengineering-Reborn\\target\\GeneticChickengineering-Reborn-drake-1.1.DEV.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "GeyserHeads-drake v1.2",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Geyser-Slimefun-Heads\\target\\GeyserHeads-drake v1.2.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "GeyserHeads-drake-1.2-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Geyser-Slimefun-Heads\\target\\GeyserHeads-drake-1.2-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "HeadLimiter-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\HeadLimiter\\target\\HeadLimiter-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "HeadLimiter-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\HeadLimiter\\target\\HeadLimiter-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Liquid-drake vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Liquid\\target\\Liquid-drake vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Liquid-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Liquid\\target\\Liquid-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Magic8Ball-drake-vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Magic-8-Ball\\target\\Magic8Ball-drake-vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MapJammer-drake-1.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MapJammers\\target\\MapJammer-drake-1.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MapJammers",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MapJammers\\target\\MapJammers.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MiniBlocks-drake vUNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MiniBlocks\\target\\MiniBlocks-drake vUNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MiniBlocks-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MiniBlocks\\target\\MiniBlocks-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "MissileWarfare-drake v1.13-SNAPSHOT.13",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MissileWarfare\\target\\MissileWarfare-drake v1.13-SNAPSHOT.13.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "MissileWarfare-drake-1.13-SNAPSHOT.13-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MissileWarfare\\target\\MissileWarfare-drake-1.13-SNAPSHOT.13-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MoreResearches-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MoreResearches\\target\\MoreResearches-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "MoreResearches",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\MoreResearches\\target\\MoreResearches.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Netheopoiesis-drake vMODIFIED",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Netheopoiesis\\target\\Netheopoiesis-drake vMODIFIED.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Netheopoiesis-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Netheopoiesis\\target\\Netheopoiesis-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "PotionExpansion-drake v1.0.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\PotionExpansion\\target\\PotionExpansion-drake v1.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "PotionExpansion-drake-1.0.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\PotionExpansion\\target\\PotionExpansion-drake-1.0.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Quaptics-drake-0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Quaptics\\target\\Quaptics-drake-0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Quaptics",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Quaptics\\target\\Quaptics.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "RelicsOfCthonia vUnofficial-2.0.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\RelicsOfCthonia\\target\\RelicsOfCthonia vUnofficial-2.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "RelicsOfCthonia-drake-Unofficial-2.0.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\RelicsOfCthonia\\target\\RelicsOfCthonia-drake-Unofficial-2.0.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "RykenSlimefunCustomizer-20",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\RykenSlimeCustomizer-EN\\target\\RykenSlimefunCustomizer-20.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "RykenSlimefunCustomizer-drake-20-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\RykenSlimeCustomizer-EN\\target\\RykenSlimefunCustomizer-drake-20-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SaneCrafting-drake-1.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SaneCrafting\\target\\SaneCrafting-drake-1.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "SaneCrafting",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SaneCrafting\\target\\SaneCrafting.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "BetterChests-drake-1.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SfBetterChests\\target\\BetterChests-drake-1.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "BetterChests-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SfBetterChests\\target\\BetterChests-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SfChunkInfo-drake-Unoffical-1.11-SNAPSHOT.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SfChunkInfo\\target\\SfChunkInfo-drake-Unoffical-1.11-SNAPSHOT.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SfChunkInfo-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SfChunkInfo\\target\\SfChunkInfo-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SimpleStorage-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Simple-Storage\\target\\SimpleStorage-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SimpleStorage-drake-vMODIFIED",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Simple-Storage\\target\\SimpleStorage-drake-vMODIFIED.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeCustomizer-drake v1.0.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeCustomizer\\target\\SlimeCustomizer-drake v1.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeCustomizer-drake-1.0.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeCustomizer\\target\\SlimeCustomizer-drake-1.0.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeFrame-drake-1.7.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeFrame\\target\\SlimeFrame-drake-1.7.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeFrame-drake-v1.7.0",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeFrame\\target\\SlimeFrame-drake-v1.7.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "sfadvancements-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimefunAdvancements\\target\\sfadvancements-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "sfadvancements-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimefunAdvancements\\target\\sfadvancements-drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeHUD-drake v1.3.1",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeHUD\\target\\SlimeHUD-drake v1.3.1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeHUD-drake-1.3.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SlimeHUD\\target\\SlimeHUD-drake-1.3.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SmallSpace-drake vMODED",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SmallSpace\\target\\SmallSpace-drake vMODED.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SpiritsUnchained-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SpiritsUnchained\\target\\SpiritsUnchained-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SpiritsUnchained",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\SpiritsUnchained\\target\\SpiritsUnchained.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "VillagerTrade-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\VillagerTrade\\target\\VillagerTrade-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "VillagerTrade-drake-UNOFFICIAL",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\VillagerTrade\\target\\VillagerTrade-drake-UNOFFICIAL.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "VillagerUtil-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\VillagerUtil\\target\\VillagerUtil-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "VillagerUtil-drake-vMODIFIED",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\VillagerUtil\\target\\VillagerUtil-drake-vMODIFIED.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Wildernether-drake v1.2.1",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Wildernether\\target\\Wildernether-drake v1.2.1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "Wildernether-drake-1.2.1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\Wildernether\\target\\Wildernether-drake-1.2.1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "WorldEditSlimefun-drake-UNOFFICIAL-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\WorldEditSlimefun\\target\\WorldEditSlimefun-drake-UNOFFICIAL-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "WorldEditSlimefun-drake",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\community-addons\\WorldEditSlimefun\\target\\WorldEditSlimefun-drake.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -201,6 +645,12 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "ColoredEnderChests-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ColoredEnderChests\\target\\ColoredEnderChests-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "DyedBackpacks-drake v1.20.6-Drake-SNAPSHOT",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\DyedBackpacks\\target\\DyedBackpacks-drake v1.20.6-Drake-SNAPSHOT.jar",
@@ -231,9 +681,21 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "EcoPower-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\EcoPower\\target\\EcoPower-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "ElectricSpawners-drake v1.21.1-Drake",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ElectricSpawners\\target\\ElectricSpawners-drake v1.21.1-Drake.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "ElectricSpawners-drake-1.21.1-Drake-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ElectricSpawners\\target\\ElectricSpawners-drake-1.21.1-Drake-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -255,9 +717,21 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "ExtraGear-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ExtraGear\\target\\ExtraGear-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "ExtraHeads-drake v11.0-Drake-1.21.1-SNAPSHOT",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ExtraHeads\\target\\ExtraHeads-drake v11.0-Drake-1.21.1-SNAPSHOT.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "ExtraHeads-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\ExtraHeads\\target\\ExtraHeads-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -297,6 +771,18 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "GlobalWarming-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\GlobalWarming\\target\\GlobalWarming-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "HardcoreSlimefun-drake-1.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\HardcoreSlimefun\\target\\HardcoreSlimefun-drake-1.0-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "HardcoreSlimefun-drake",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\HardcoreSlimefun\\target\\HardcoreSlimefun-drake.jar",
@@ -306,6 +792,12 @@
       "artifactId": "HotbarPets-drake v1.20.6-Drake-SNAPSHOT",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\HotbarPets\\target\\HotbarPets-drake v1.20.6-Drake-SNAPSHOT.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "HotbarPets-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\HotbarPets\\target\\HotbarPets-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -339,6 +831,12 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "SlimefunLuckyBlocks-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\luckyblocks-sf\\target\\SlimefunLuckyBlocks-drake-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "MobCapturer-drake v11.0-Drake-1.21.1-SNAPSHOT",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\MobCapturer\\target\\MobCapturer-drake v11.0-Drake-1.21.1-SNAPSHOT.jar",
@@ -357,6 +855,12 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "PrivateStorage-drake-1.21.1-Drake-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\PrivateStorage\\target\\PrivateStorage-drake-1.21.1-Drake-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "SensibleToolbox-drake-1.21-Drake-SNAPSHOT-shaded",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SensibleToolbox-sf5\\target\\SensibleToolbox-drake-1.21-Drake-SNAPSHOT-shaded.jar",
@@ -369,9 +873,21 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "SFCalc-drake-1.21-Drake-v1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SFCalc\\target\\SFCalc-drake-1.21-Drake-v1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "SFCalc-drake-1.21-Drake-v1",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SFCalc\\target\\SFCalc-drake-1.21-Drake-v1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SFMobDrops-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SFMobDrops\\target\\SFMobDrops-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -387,9 +903,21 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "SimpleUtils-drake-MODIFIED-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SimpleUtils\\target\\SimpleUtils-drake-MODIFIED-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "SlimeChem v1.21-Drake-v7",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SlimeChem\\target\\SlimeChem v1.21-Drake-v7.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimeChem-drake-1.21-Drake-v7-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SlimeChem\\target\\SlimeChem-drake-1.21-Drake-v7-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -399,9 +927,21 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
+      "artifactId": "SlimefunOreChunks-drake-1.20.6-Drake-SNAPSHOT-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SlimefunOreChunks\\target\\SlimefunOreChunks-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
       "artifactId": "SlimyRepair-drake v1.0.0",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SlimyRepair\\target\\SlimyRepair-drake v1.0.0.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SlimyRepair-drake-1.0.0-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SlimyRepair\\target\\SlimyRepair-drake-1.0.0-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -420,6 +960,18 @@
       "artifactId": "SoulJars-drake v1.21-Drake-v1",
       "version": "TODO-DRAKE-SNAPSHOT",
       "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SoulJars\\target\\SoulJars-drake v1.21-Drake-v1.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SoulJars-drake-1.21-Drake-v1-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SoulJars\\target\\SoulJars-drake-1.21-Drake-v1-shaded.jar",
+      "description": "TODO: revisar version y uso antes de publicar."
+    },
+    {
+      "artifactId": "SoundMuffler-drake-11.0-Drake-shaded",
+      "version": "TODO-DRAKE-SNAPSHOT",
+      "file": "..\\drakes-slimefun-labs\\sources\\repos-to-port\\SoundMuffler\\target\\SoundMuffler-drake-11.0-Drake-shaded.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
@@ -507,9 +1059,9 @@
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {
-      "artifactId": "NetworksV6-drake-11-SNAPSHOT-shaded",
+      "artifactId": "NetworksExperimental-Drake-v11-SNAPSHOT",
       "version": "TODO-DRAKE-SNAPSHOT",
-      "file": "..\\standalone-audit\\NetworksV6-drake\\target\\NetworksV6-drake-11-SNAPSHOT-shaded.jar",
+      "file": "..\\standalone-audit\\NetworksV6-drake\\experimental\\target\\NetworksExperimental-Drake-v11-SNAPSHOT.jar",
       "description": "TODO: revisar version y uso antes de publicar."
     },
     {

@@ -61,6 +61,7 @@ Luego declara las dependencias Drake que correspondan:
 | `com.github.drakescraft_labs:sefilib-drake` | `0.3.1-DRAKE-SNAPSHOT` | Libreria auxiliar usada por Networks y otros addons |
 | `com.github.drakescraft_labs:InfinityExpansion-drake` | `1.20.6-Drake-SNAPSHOT` | API/compatibilidad de InfinityExpansion para integraciones |
 | `com.github.drakescraft_labs:NetworksV6-drake` | `11-SNAPSHOT` | Jar compilado de NetworksV6 Drake como primer plugin independiente controlado |
+| `com.github.drakescraft_labs:Networks-Experimental-drake` | `11-SNAPSHOT` | Jar experimental compilado de Networks con características avanzadas |
 
 ## Politica De Uso
 
