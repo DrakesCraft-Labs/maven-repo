@@ -1,0 +1,54 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DrakesCraft Labs Maven Repository</title>
+  <desc id="desc">Banner for the public Maven repository used by DrakesCraft Labs plugins.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#173B4D"/>
+      <stop offset="1" stop-color="#214E45"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="176" y1="78" x2="322" y2="254" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8D06D"/>
+      <stop offset="0.48" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="884" y1="96" x2="1088" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#sky)"/>
+  <path d="M0 279C128 225 222 239 338 276C454 313 556 329 695 277C834 225 941 205 1200 268V360H0V279Z" fill="#0B1F2A" opacity="0.76"/>
+  <path d="M0 305C158 278 291 278 423 307C555 336 681 351 817 315C953 279 1080 277 1200 301V360H0V305Z" fill="#081621"/>
+
+  <g filter="url(#soft)">
+    <path d="M151 246C145 190 158 145 190 112C216 85 254 72 296 77C281 86 271 102 268 120C286 108 309 104 334 111C364 119 385 140 396 168C380 161 361 162 345 171C363 179 377 194 384 214C391 235 388 257 375 276C359 253 337 238 307 231C284 226 263 229 244 240C229 249 212 254 191 255C176 255 163 252 151 246Z" fill="url(#ember)"/>
+    <path d="M236 216C229 185 237 158 260 135C263 159 276 178 298 191C319 204 334 221 341 243C317 229 297 226 281 235C264 244 249 238 236 216Z" fill="#FFF7CC" opacity="0.92"/>
+    <path d="M315 132C336 139 351 153 360 173C344 170 331 173 321 184C315 169 313 152 315 132Z" fill="#FFE9A6" opacity="0.85"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="448" y="86" width="336" height="188" rx="18" fill="#0B1220" stroke="#5EEAD4" stroke-opacity="0.34"/>
+    <path d="M484 140H596V166H484V140ZM484 188H548V214H484V188ZM584 188H748V214H584V188Z" fill="#E2E8F0"/>
+    <path d="M648 131L690 174L648 217" stroke="#38BDF8" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M632 217L590 174L632 131" stroke="#F8D06D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g filter="url(#soft)">
+    <path d="M914 101H1074C1091 101 1105 115 1105 132V229C1105 246 1091 260 1074 260H914C897 260 883 246 883 229V132C883 115 897 101 914 101Z" fill="#07111F" stroke="url(#aqua)" stroke-width="3"/>
+    <path d="M914 151H1105" stroke="#5EEAD4" stroke-width="3" opacity="0.65"/>
+    <circle cx="929" cy="128" r="8" fill="#EF4444"/>
+    <circle cx="954" cy="128" r="8" fill="#F8D06D"/>
+    <circle cx="979" cy="128" r="8" fill="#5EEAD4"/>
+    <path d="M929 187H1059" stroke="#E2E8F0" stroke-width="12" stroke-linecap="round"/>
+    <path d="M929 220H1013" stroke="#38BDF8" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <text x="68" y="88" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0">DrakesCraft Labs</text>
+  <text x="68" y="312" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0">Public Maven registry for the Drake Slimefun plugin ecosystem</text>
+  <text x="448" y="310" fill="#CBD5E1" font-family="Consolas, monospace" font-size="18" letter-spacing="0">https://drakescraft-labs.github.io/maven-repo/</text>
+</svg>
