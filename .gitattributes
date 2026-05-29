@@ -5,3 +5,6 @@ scripts/*.ps1 text eol=lf
 index.html text eol=lf
 assets/*.svg text eol=lf
 com/** text eol=lf
+*.jar binary
+*.sha1 text eol=lf
+*.md5 text eol=lf
