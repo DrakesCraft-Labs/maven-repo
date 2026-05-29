@@ -331,6 +331,7 @@
       <nav aria-label="Navegacion principal">
         <a href="#artifacts">Artefactos</a>
         <a href="#usage">Uso Maven</a>
+        <a href="#gradle">Gradle</a>
         <a href="https://github.com/DrakesCraft-Labs/maven-repo">GitHub</a>
       </nav>
     </header>
@@ -397,6 +398,12 @@
             <p>API/compatibilidad de InfinityExpansion para integraciones.</p>
             <a href="com/github/drakescraft_labs/InfinityExpansion-drake/">Abrir carpeta</a>
           </article>
+          <article class="artifact">
+            <strong>NetworksV6-drake</strong>
+            <small>11-SNAPSHOT</small>
+            <p>Jar compilado de NetworksV6 Drake como plugin independiente controlado.</p>
+            <a href="com/github/drakescraft_labs/NetworksV6-drake/">Abrir carpeta</a>
+          </article>
         </div>
       </section>
 
@@ -420,6 +427,36 @@
           <pre><code>$tempRepo = Join-Path $env:TEMP ('drake-m2-clean-' + [Guid]::NewGuid().ToString('N'))
 New-Item -ItemType Directory -Path $tempRepo | Out-Null
 mvn "-Dmaven.repo.local=$tempRepo" -U -DskipTests package</code></pre>
+        </div>
+      </section>
+
+      <section id="gradle" class="split">
+        <div class="panel">
+          <h2>Tambien para Gradle</h2>
+          <p class="muted">
+            No necesitamos un segundo repositorio: Gradle consume este mismo Maven repo. Los plugins con `build.gradle` o `build.gradle.kts` deben apuntar a esta URL y declarar las dependencias Drake con `compileOnly` o `implementation` segun corresponda.
+          </p>
+          <div class="actions">
+            <a class="button primary" href="docs/USAGE_GRADLE.md">Ver guia Gradle</a>
+            <a class="button" href="docs/PUBLISHING.md">Ver publicacion</a>
+          </div>
+        </div>
+
+        <div class="terminal" aria-label="Ejemplo Gradle">
+          <div class="terminal-bar">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+          <pre><code>repositories {
+    maven {
+        name = "drakescraftLabs"
+        url = uri("https://drakescraft-labs.github.io/maven-repo/")
+        mavenContent {
+            includeGroup("com.github.drakescraft_labs")
+        }
+    }
+}</code></pre>
         </div>
       </section>
     </main>

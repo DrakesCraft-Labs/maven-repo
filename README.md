@@ -27,6 +27,20 @@ Agrega este repositorio en el `pom.xml` del plugin:
 </repositories>
 ```
 
+En Gradle se usa el mismo repositorio Maven:
+
+```kotlin
+repositories {
+    maven {
+        name = "drakescraftLabs"
+        url = uri("https://drakescraft-labs.github.io/maven-repo/")
+        mavenContent {
+            includeGroup("com.github.drakescraft_labs")
+        }
+    }
+}
+```
+
 Luego declara las dependencias Drake que correspondan:
 
 ```xml
@@ -46,6 +60,7 @@ Luego declara las dependencias Drake que correspondan:
 | `com.github.drakescraft_labs:dough-core` | `1.3.1-DRAKE-v11-SNAPSHOT` | Utilidades compartidas requeridas por plugins portados |
 | `com.github.drakescraft_labs:sefilib-drake` | `0.3.1-DRAKE-SNAPSHOT` | Libreria auxiliar usada por Networks y otros addons |
 | `com.github.drakescraft_labs:InfinityExpansion-drake` | `1.20.6-Drake-SNAPSHOT` | API/compatibilidad de InfinityExpansion para integraciones |
+| `com.github.drakescraft_labs:NetworksV6-drake` | `11-SNAPSHOT` | Jar compilado de NetworksV6 Drake como primer plugin independiente controlado |
 
 ## Politica De Uso
 
@@ -53,6 +68,22 @@ Luego declara las dependencias Drake que correspondan:
 - Los plugins de la org deben apuntar aqui cuando dependan de artefactos Drake internos.
 - Los POMs publicados deben mantenerse lo mas independientes posible para no arrastrar parents locales ni rutas del reactor.
 - Si un plugin necesita una dependencia interna nueva, primero se publica aqui y despues se actualiza el `pom.xml` del plugin.
+
+## Publicacion Controlada
+
+Los scripts de `scripts/` permiten publicar artefactos desde el monorepo o desde repos independientes:
+
+```powershell
+.\scripts\Publish-DrakeManifest.ps1 -ManifestPath .\catalog\drake-artifacts.json
+```
+
+Para generar un catalogo inicial de jars detectados:
+
+```powershell
+.\scripts\New-DrakeArtifactCatalog.ps1
+```
+
+Ese catalogo se revisa antes de publicar; no conviene subir automaticamente cualquier jar sin confirmar version, nombre y uso.
 
 ## Smoke Test Recomendado
 
@@ -71,3 +102,5 @@ Si eso termina con `BUILD SUCCESS`, el plugin ya no depende del entorno local de
 - GitHub: <https://github.com/DrakesCraft-Labs/maven-repo>
 - Maven URL: <https://drakescraft-labs.github.io/maven-repo/>
 - Landing: <https://drakescraft-labs.github.io/maven-repo/index.html>
+- Gradle: [docs/USAGE_GRADLE.md](docs/USAGE_GRADLE.md)
+- Publicacion: [docs/PUBLISHING.md](docs/PUBLISHING.md)

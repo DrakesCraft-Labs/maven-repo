@@ -1,0 +1,37 @@
+{
+  "repositoryId": "drakescraft-labs-local",
+  "groupId": "com.github.drakescraft_labs",
+  "artifacts": [
+    {
+      "artifactId": "slimefun-core",
+      "version": "11.0-Drake-1.21.1-SNAPSHOT",
+      "file": "../drakes-slimefun-labs/sources/slimefun-core/Slimefun4-src/target/slimefun-core-11.0-Drake-1.21.1-SNAPSHOT-shaded.jar",
+      "sources": "../drakes-slimefun-labs/sources/slimefun-core/Slimefun4-src/target/Slimefun-1.2.DEV v11.0-Drake-1.21.1-SNAPSHOT-sources.jar",
+      "description": "Core Drake/Slimefun usado como API base por los addons."
+    },
+    {
+      "artifactId": "dough-core",
+      "version": "1.3.1-DRAKE-v11-SNAPSHOT",
+      "file": "../drakes-slimefun-labs/sources/dough-core/target/dough-core-1.3.1-DRAKE-v11-SNAPSHOT-shaded.jar",
+      "description": "Utilidades compartidas requeridas por plugins portados."
+    },
+    {
+      "artifactId": "sefilib-drake",
+      "version": "0.3.1-DRAKE-SNAPSHOT",
+      "file": "../drakes-slimefun-labs/sources/batch-2-expansion/SefiLib/target/SefiLib-v0.3.1-DRAKE-SNAPSHOT.jar",
+      "description": "Libreria auxiliar usada por Networks y otros addons."
+    },
+    {
+      "artifactId": "InfinityExpansion-drake",
+      "version": "1.20.6-Drake-SNAPSHOT",
+      "file": "../drakes-slimefun-labs/sources/repos-to-port/InfinityExpansion/target/InfinityExpansion-drake-1.20.6-Drake-SNAPSHOT-shaded.jar",
+      "description": "API/compatibilidad de InfinityExpansion para integraciones."
+    },
+    {
+      "artifactId": "NetworksV6-drake",
+      "version": "11-SNAPSHOT",
+      "file": "../standalone-audit/NetworksV6-drake/target/NetworksV6-Drake-v11-SNAPSHOT.jar",
+      "description": "Jar compilado de NetworksV6 Drake para consumo controlado dentro del ecosistema."
+    }
+  ]
+}
