@@ -8,7 +8,7 @@ Repositorio Maven publico para los artefactos Drake que usan los plugins de la o
 
 La idea de este repo es simple: cualquier plugin separado de la organizacion debe poder compilar sin depender del reactor completo `drakes-slimefun-labs`, sin instalar jars a mano y sin confiar en la cache Maven de una maquina especifica.
 
-## Usage En Plugins
+## Uso En Plugins
 
 Agrega este repositorio en el `pom.xml` del plugin:
 
