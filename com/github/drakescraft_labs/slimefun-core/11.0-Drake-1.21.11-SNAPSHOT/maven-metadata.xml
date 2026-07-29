@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>slimefun-core</artifactId>
+  <versioning>
+    <lastUpdated>20260729181641</lastUpdated>
+    <snapshot>
+      <timestamp>20260729.181641</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11.0-Drake-1.21.11-20260729.181641-2</value>
+        <updated>20260729181641</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.0-Drake-1.21.11-20260729.181641-2</value>
+        <updated>20260729181641</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11.0-Drake-1.21.11-SNAPSHOT</version>
+</metadata>
