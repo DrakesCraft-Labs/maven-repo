@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.drakescraft_labs</groupId>
+  <artifactId>drakes-slimefun-labs</artifactId>
+  <versioning>
+    <lastUpdated>20260729182837</lastUpdated>
+    <snapshot>
+      <timestamp>20260729.182837</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11-20260729.182837-1</value>
+        <updated>20260729182837</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11-SNAPSHOT</version>
+</metadata>
