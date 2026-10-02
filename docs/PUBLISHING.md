@@ -5,7 +5,7 @@ Este repo es la base publica de dependencias para los plugins de DrakesCraft Lab
 1. Compila el plugin o libreria en su repo fuente.
 2. Publica el jar aqui con `scripts/Publish-DrakeArtifact.ps1` o con el manifest `catalog/drake-artifacts.json`.
 3. Haz commit y push de los archivos generados en este repo.
-4. En el plugin consumidor, apunta a `https://drakescraft-labs.github.io/maven-repo/`.
+4. En el plugin consumidor, apunta a `https://maven.drakescraft.cl/`.
 5. Valida con una cache Maven/Gradle temporal limpia.
 
 ## Publicar Un Artefacto

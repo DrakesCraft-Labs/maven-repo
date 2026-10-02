@@ -50,5 +50,5 @@
 
   <text x="68" y="88" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0">DrakesCraft Labs</text>
   <text x="68" y="312" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0">Public Maven registry for the Drake Slimefun plugin ecosystem</text>
-  <text x="448" y="310" fill="#CBD5E1" font-family="Consolas, monospace" font-size="18" letter-spacing="0">https://drakescraft-labs.github.io/maven-repo/</text>
+  <text x="448" y="310" fill="#CBD5E1" font-family="Consolas, monospace" font-size="18" letter-spacing="0">https://maven.drakescraft.cl/</text>
 </svg>

@@ -8,7 +8,7 @@ Este repositorio Maven tambien funciona para proyectos Gradle. No hace falta un 
 repositories {
     maven {
         name = "drakescraftLabs"
-        url = uri("https://drakescraft-labs.github.io/maven-repo/")
+        url = uri("https://maven.drakescraft.cl/")
         mavenContent {
             includeGroup("com.github.drakescraft_labs")
         }
@@ -27,7 +27,7 @@ dependencies {
 repositories {
     maven {
         name = "drakescraftLabs"
-        url = uri("https://drakescraft-labs.github.io/maven-repo/")
+        url = uri("https://maven.drakescraft.cl/")
         mavenContent {
             includeGroup("com.github.drakescraft_labs")
         }

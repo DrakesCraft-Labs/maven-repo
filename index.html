@@ -357,7 +357,7 @@
           </div>
           <pre><code>&lt;repository&gt;
   &lt;id&gt;drakescraft-labs-maven&lt;/id&gt;
-  &lt;url&gt;https://drakescraft-labs.github.io/maven-repo/&lt;/url&gt;
+  &lt;url&gt;https://maven.drakescraft.cl/&lt;/url&gt;
   &lt;releases&gt;
     &lt;enabled&gt;true&lt;/enabled&gt;
   &lt;/releases&gt;
@@ -457,7 +457,7 @@ mvn "-Dmaven.repo.local=$tempRepo" -U -DskipTests package</code></pre>
           <pre><code>repositories {
     maven {
         name = "drakescraftLabs"
-        url = uri("https://drakescraft-labs.github.io/maven-repo/")
+        url = uri("https://maven.drakescraft.cl/")
         mavenContent {
             includeGroup("com.github.drakescraft_labs")
         }
